@@ -8,6 +8,15 @@ import * as Guide from './readingstrip.js';
 const $ = (s, r = document) => r.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
+// Color styles the reader can choose. Names describe the look, not who it is for.
+const PALETTES = [
+  ['sunset', 'Rainbow Sunset', '#ffac78', '#b8a2e6'],
+  ['starry', 'Starry Night', '#11112b', '#7fe7ff'],
+  ['space', 'Space Explorer', '#38bdf8', '#f97316'],
+  ['jungle', 'Jungle Adventure', '#4ade80', '#fb923c'],
+  ['pink', 'Pink Sparkle', '#f9a8d4', '#c026d3'],
+  ['lavender', 'Lavender Dream', '#c4b5fd', '#a5f3fc']
+];
 let LIB = { stories: [] }, CREATURES = [];
 const BOOKS = {};
 let R = { route: '', a: '', b: '' };        // current route parts
@@ -93,6 +102,7 @@ function giveBadge(id) {
 function applyDisplay() {
   const s = S.settings();
   document.body.dataset.theme = s.theme;
+  document.body.dataset.palette = PALETTES.some(x => x[0] === s.palette) ? s.palette : 'sunset';
   document.body.dataset.text = s.textSize;
   document.body.classList.toggle('reduced', !s.motion);
 }
@@ -105,6 +115,7 @@ function header() {
   ${p ? `<button class="nav" data-go="#/who" aria-label="Switch reader">👤 ${esc(p.name)}</button><div class="wallet" aria-label="${p.balance} Lit Bucks"><span class="coin">LB</span>${p.balance}</div>` : ''}</nav>
   <div class="display-controls"><span class="layout-label">Display:</span>
     <div role="group" aria-label="Page theme"><button class="tab ${s.theme === 'light' ? 'active' : ''}" data-act="theme" data-v="light" aria-pressed="${s.theme === 'light'}">☀ Light</button><button class="tab ${s.theme === 'dark' ? 'active' : ''}" data-act="theme" data-v="dark" aria-pressed="${s.theme === 'dark'}">☾ Dark</button></div>
+    <div role="group" aria-label="Color style">${PALETTES.map(([id, name, c1, c2]) => `<button class="swatch ${s.palette === id ? 'active' : ''}" data-act="palette" data-v="${id}" aria-pressed="${s.palette === id}" aria-label="${name} colors" title="${name}" style="--sw1:${c1};--sw2:${c2}"></button>`).join('')}<span class="note palette-name">${esc(PALETTES.find(x => x[0] === s.palette)?.[1] || 'Rainbow Sunset')}</span></div>
     <div role="group" aria-label="Text size">${[['small', 'A'], ['medium', 'A'], ['large', 'A']].map(([v, l], i) => `<button class="tab size-${v} ${s.textSize === v ? 'active' : ''}" data-act="textsize" data-v="${v}" aria-pressed="${s.textSize === v}" aria-label="${v} text">${l}${'+'.repeat(i)}</button>`).join('')}</div>
   </div>`;
 }
@@ -448,6 +459,7 @@ document.addEventListener('click', e => {
     addreader: () => { S.newProfile($('#nick')?.value); go('#/'); },
     pick: () => { S.switchProfile(d.v); go('#/'); },
     theme: () => { S.settings().theme = d.v; S.save(); applyDisplay(); header(); },
+    palette: () => { S.settings().palette = d.v; S.save(); applyDisplay(); header(); },
     textsize: () => { S.settings().textSize = d.v; S.save(); applyDisplay(); header(); },
     open: () => openKind(d.v, d.kind),
     prev: () => { const p = S.progress(R.a); p.page = Math.max(0, p.page - 1); markRead(p); S.save(); render(); },

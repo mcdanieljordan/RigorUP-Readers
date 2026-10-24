@@ -5,7 +5,7 @@ const KEY = 'rigorup-readers-v2';
 
 const blank = () => ({
   version: 2, active: null, profiles: [], pin: '',
-  settings: { placement: 'during', answers: 'now', timer: 'standard', motion: true, theme: 'light', textSize: 'medium', showText: false }
+  settings: { placement: 'during', answers: 'now', timer: 'standard', motion: true, theme: 'light', palette: 'sunset', textSize: 'medium', showText: false }
 });
 
 let state;
