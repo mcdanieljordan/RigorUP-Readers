@@ -1,0 +1,28 @@
+{
+  "stories": [
+    {
+      "id": "B001",
+      "title": "Who Took Ensley's Color Away?",
+      "blurb": "A magical homework mystery. Where did Ensley's rainbow spots go?",
+      "cover": "books/B001-K/cover.webp",
+      "versions": [
+        {
+          "id": "B001-K",
+          "level": "K-2",
+          "label": "Kindergarten to 2nd grade",
+          "path": "books/B001-K/book.json",
+          "pages": 39,
+          "questions": 44,
+          "readingQuestions": 24,
+          "mathQuestions": 20,
+          "printables": [
+            {
+              "label": "Printable worksheets and answer key",
+              "file": "worksheets.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

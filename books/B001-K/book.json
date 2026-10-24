@@ -1,0 +1,890 @@
+{
+ "id": "B001-K",
+ "story": "B001",
+ "title": "Who Took Ensley's Color Away?",
+ "level": "K-2",
+ "gradeBand": "K-2",
+ "intro": "Welcome, rainbow explorer! Read Ensley's story. Answer reading and math questions to earn Lit Bucks. You get two tries. If an answer is tricky, use the hint and try again. Mistakes help your rainbow grow!",
+ "textInImage": true,
+ "completionGift": 40,
+ "mathAfterPage": "end",
+ "pages": [
+  {
+   "text": "School was over, and Ensley wanted to play. The African grasslands looked sunny and fun.",
+   "image": "pages/page-01.webp"
+  },
+  {
+   "text": "But Ensley had two hours of homework to do. “Two hours?” Ensley groaned. “That feels longer than Grandpa’s old wrinkly neck!”",
+   "image": "pages/page-02.webp"
+  },
+  {
+   "text": "“Ensley took a deep breath and got started.” She put her books, pencils, and papers on the table.",
+   "image": "pages/page-03.webp"
+  },
+  {
+   "text": "Then she lost her pencil. It was behind her ear.",
+   "image": "pages/page-04.webp"
+  },
+  {
+   "text": "Ensley saw five mango slices on her plate. Her mom gave her three more. “Five plus three equals eight!” cheered Ensley. 5 + 3 = 8",
+   "image": "pages/page-05.webp"
+  },
+  {
+   "text": "Then Ensley tried another problem. She was sure she was correct.",
+   "image": "pages/page-06.webp"
+  },
+  {
+   "text": "Her tummy felt tight. “I worked so hard! How can I be wrong?” She protested.",
+   "image": "pages/page-07.webp"
+  },
+  {
+   "text": "WHOOSH! A tiny red spark flew off Ensley’s side. Ensley looked at her spots. Her red spot was gone!",
+   "image": "pages/page-08.webp"
+  },
+  {
+   "text": "Next, Ensley practiced reading. She came to a word she did not know.",
+   "image": "pages/page-09.webp"
+  },
+  {
+   "text": "She tried once, then tried once more. At last she read the word correctly.",
+   "image": "pages/page-10.webp"
+  },
+  {
+   "text": "ZIP! A blue spark raced around the room. “My blue spot too?” cried Ensley. “Someone is stealing my rainbow!”",
+   "image": "pages/page-11.webp"
+  },
+  {
+   "text": "“Next, Ensley played a memory game.” She had to remember four shapes.",
+   "image": "pages/page-12.webp"
+  },
+  {
+   "text": "A colorful butterfly flew past her nose. “And just like that, Ensley forgot every single one.”",
+   "image": "pages/page-13.webp"
+  },
+  {
+   "text": "Ensley took a breath and tried again. This time she remembered all four shapes. A green spark popped from her side. “HA!” said Ensley. “I knew it!”",
+   "image": "pages/page-14.webp"
+  },
+  {
+   "text": "Ensley made a clue board. She drew sparks, books, numbers, and question marks.",
+   "image": "pages/page-15.webp"
+  },
+  {
+   "text": "“My colors vanish when I study,” she whispered. “The Rainbow Thief must be near!”",
+   "image": "pages/page-16.webp"
+  },
+  {
+   "text": "Then Ensley got three answers wrong in a row. Her papers were everywhere.",
+   "image": "pages/page-17.webp"
+  },
+  {
+   "text": "Outside, the other animals ran and played. “I don’t want to do one more thing,” Ensley said.",
+   "image": "pages/page-18.webp"
+  },
+  {
+   "text": "A tiny yellow spark floated past her nose. Then a soft voice sang, “Wrong is not the end!” “Look once more, my colorful friend. Fix one thing, and follow the light!”",
+   "image": "pages/page-19.webp"
+  },
+  {
+   "text": "“Ensley did not try to finish everything at once.” She picked just one problem.",
+   "image": "pages/page-20.webp"
+  },
+  {
+   "text": "There were nine birds in a tree, and four flew away. “Nine minus four is five!” said Ensley. 9 − 4 = 5",
+   "image": "pages/page-21.webp"
+  },
+  {
+   "text": "Suddenly, every spark appeared at once. They flew out the door and across the grass.",
+   "image": "pages/page-22.webp"
+  },
+  {
+   "text": "Ensley searched for her backpack. “My backpack is missing!”",
+   "image": "pages/page-23.webp"
+  },
+  {
+   "text": "Ensley chased the sparks past rocks and tall grass. “Wait for me!” she shouted.",
+   "image": "pages/page-24.webp"
+  },
+  {
+   "text": "The trail led toward the oldest acacia tree. That was strange, because Ensley knew that tree.",
+   "image": "pages/page-25.webp"
+  },
+  {
+   "text": "Three zebras stood by the tree. Two more zebras walked over.",
+   "image": "pages/page-26.webp"
+  },
+  {
+   "text": "“Three plus two is five,” said Ensley. The tree began to glow. 3 + 2 = 5",
+   "image": "pages/page-27.webp"
+  },
+  {
+   "text": "Ensley peeked into the glowing hollow. All of her missing colors were inside!",
+   "image": "pages/page-28.webp"
+  },
+  {
+   "text": "Red, yellow, green, and blue spun in the air. Orange, indigo, and violet joined them too.",
+   "image": "pages/page-29.webp"
+  },
+  {
+   "text": "Something sat underneath the glowing colors. “Ensley gasped in surprise.”",
+   "image": "pages/page-30.webp"
+  },
+  {
+   "text": "It was her turquoise school backpack! She had left it under the tree two days ago.",
+   "image": "pages/page-31.webp"
+  },
+  {
+   "text": "The rainbow sparks showed Ensley what had happened. One spark appeared each time she learned something hard.",
+   "image": "pages/page-32.webp"
+  },
+  {
+   "text": "“They appeared when she got something wrong.” They appeared when she tried again. They appeared when she remembered. They appeared when she focused. They appeared when she solved a problem. They appeared when she fixed a mistake.",
+   "image": "pages/page-33.webp"
+  },
+  {
+   "text": "The colors had not been stolen at all. They had been growing brighter.",
+   "image": "pages/page-34.webp"
+  },
+  {
+   "text": "WHOOSH! The seven colors rushed back to Ensley. Her rainbow shone brighter than ever.",
+   "image": "pages/page-35.webp"
+  },
+  {
+   "text": "Homework was still hard sometimes. Ensley still wished she had more time to play.",
+   "image": "pages/page-36.webp"
+  },
+  {
+   "text": "But now she knew something important. A wrong answer did not mean she could not learn.",
+   "image": "pages/page-37.webp"
+  },
+  {
+   "text": "“I solved the mystery!” Ensley cheered. “Now I am ready to go home!”",
+   "image": "pages/page-38.webp"
+  },
+  {
+   "text": "Then she stopped. “Where is my pencil?” “Her friends laughed. ‘Ensley! It’s behind your ear again!’”",
+   "image": "pages/page-39.webp"
+  }
+ ],
+ "questions": [
+  {
+   "id": "r1",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "Where did Ensley want to go after school?",
+   "choices": [
+    "Outside to play",
+    "To bed",
+    "To the store"
+   ],
+   "answer": 0,
+   "page": 1,
+   "hint": "Look at what Ensley wanted to do when school ended.",
+   "explanation": "Ensley wanted to play outside in the sunny grasslands."
+  },
+  {
+   "id": "r2",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "Why was Ensley upset at the beginning?",
+   "choices": [
+    "Her mangoes were missing",
+    "She had two hours of homework",
+    "Her tree was gone"
+   ],
+   "answer": 1,
+   "page": 2,
+   "hint": "Think about what stood between Ensley and playtime.",
+   "explanation": "She had lots of homework and wanted time to play."
+  },
+  {
+   "id": "r3",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "Where was her lost pencil?",
+   "choices": [
+    "Under the tree",
+    "In her backpack",
+    "Behind her ear"
+   ],
+   "answer": 2,
+   "page": 4,
+   "hint": "Look near Ensley’s head.",
+   "explanation": "Her pencil was behind her ear!"
+  },
+  {
+   "id": "r4",
+   "type": "choice",
+   "skill": "Feelings & learning strategies",
+   "prompt": "How did Ensley feel after a wrong answer?",
+   "choices": [
+    "Frustrated and upset",
+    "Sleepy",
+    "Excited to be wrong"
+   ],
+   "answer": 0,
+   "page": 7,
+   "hint": "Her tummy felt tight. What feeling fits?",
+   "explanation": "Ensley felt frustrated. A difficult answer can make us feel upset."
+  },
+  {
+   "id": "r5",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "What happened to her red spot?",
+   "choices": [
+    "It became a leaf",
+    "It disappeared as a red spark",
+    "It turned blue"
+   ],
+   "answer": 1,
+   "page": 8,
+   "hint": "Remember the WHOOSH after a hard problem.",
+   "explanation": "A red spark flew off her side, and her red spot was gone."
+  },
+  {
+   "id": "r6",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "What happened after she read the hard word?",
+   "choices": [
+    "A blue spark appeared",
+    "It started raining",
+    "Her backpack opened"
+   ],
+   "answer": 0,
+   "page": 11,
+   "hint": "Think about the color that zipped around the room.",
+   "explanation": "A blue spark appeared after she read the word correctly."
+  },
+  {
+   "id": "r7",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "What distracted her in the memory game?",
+   "choices": [
+    "A zebra",
+    "A butterfly",
+    "A bird"
+   ],
+   "answer": 1,
+   "page": 13,
+   "hint": "Something colorful flew past her nose.",
+   "explanation": "A butterfly distracted Ensley."
+  },
+  {
+   "id": "r8",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "What did she make to solve the mystery?",
+   "choices": [
+    "A sandwich",
+    "A new backpack",
+    "A clue board"
+   ],
+   "answer": 2,
+   "page": 15,
+   "hint": "She drew sparks, books, numbers, and question marks.",
+   "explanation": "She made a clue board to connect what she noticed."
+  },
+  {
+   "id": "r9",
+   "type": "choice",
+   "skill": "Feelings & learning strategies",
+   "prompt": "Why did Ensley feel like giving up?",
+   "choices": [
+    "She had finished everything",
+    "Several wrong answers felt overwhelming",
+    "She disliked the sunshine"
+   ],
+   "answer": 1,
+   "page": 18,
+   "hint": "Think about the three answers and her scattered papers.",
+   "explanation": "Several wrong answers made the work feel too big."
+  },
+  {
+   "id": "r10",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "What did the yellow spark tell her?",
+   "choices": [
+    "Give up now",
+    "Hide the papers",
+    "Look again and fix one thing"
+   ],
+   "answer": 2,
+   "page": 19,
+   "hint": "Remember: “Wrong is not the end!”",
+   "explanation": "The spark told her to look once more, fix one thing, and follow the light."
+  },
+  {
+   "id": "r11",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "What did she do instead of finishing everything at once?",
+   "choices": [
+    "Picked just one problem",
+    "Threw her books away",
+    "Ran to school"
+   ],
+   "answer": 0,
+   "page": 20,
+   "hint": "What small step did she choose?",
+   "explanation": "She chose one problem. One small step made the work easier to manage."
+  },
+  {
+   "id": "r12",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "Where did the rainbow trail lead?",
+   "choices": [
+    "To a river",
+    "To the oldest acacia tree",
+    "To school"
+   ],
+   "answer": 1,
+   "page": 25,
+   "hint": "The trail led toward a tree she knew.",
+   "explanation": "The sparks led her to the oldest acacia tree."
+  },
+  {
+   "id": "r13",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "What was under the glowing colors?",
+   "choices": [
+    "Her turquoise backpack",
+    "A treasure chest",
+    "A blue butterfly"
+   ],
+   "answer": 0,
+   "page": 31,
+   "hint": "Remember what Ensley had left there two days ago.",
+   "explanation": "Her turquoise school backpack was under the colors."
+  },
+  {
+   "id": "r14",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "Were the colors really stolen?",
+   "choices": [
+    "Yes",
+    "No"
+   ],
+   "answer": 1,
+   "page": 34,
+   "hint": "The sparks explained what had really happened.",
+   "explanation": "No. Her colors were growing brighter as she learned."
+  },
+  {
+   "id": "r15",
+   "type": "choice",
+   "skill": "Meaning, clues & inference",
+   "prompt": "What made the colors brighter?",
+   "choices": [
+    "Never making mistakes",
+    "Learning and trying again",
+    "Hiding her homework"
+   ],
+   "answer": 1,
+   "page": 34,
+   "hint": "Remember reading, focusing, remembering, and fixing mistakes.",
+   "explanation": "Learning, effort, solving problems, and fixing mistakes made them brighter."
+  },
+  {
+   "id": "r16",
+   "type": "choice",
+   "skill": "Meaning, clues & inference",
+   "prompt": "What did Ensley learn about wrong answers?",
+   "choices": [
+    "They mean you cannot learn",
+    "You should stop reading",
+    "They do not mean you cannot learn"
+   ],
+   "answer": 2,
+   "page": 37,
+   "hint": "Think about the important lesson near the end.",
+   "explanation": "A wrong answer does not mean you cannot learn."
+  },
+  {
+   "id": "r17",
+   "type": "choice",
+   "skill": "Feelings & learning strategies",
+   "prompt": "How did Ensley change by the end?",
+   "choices": [
+    "She felt more hopeful about learning",
+    "She never needed practice again",
+    "She forgot the mystery"
+   ],
+   "answer": 0,
+   "page": 39,
+   "hint": "Compare her frustration at the start with her hope at the end.",
+   "explanation": "She still found homework hard sometimes, but understood she could keep learning."
+  },
+  {
+   "id": "r18",
+   "type": "choice",
+   "skill": "Meaning, clues & inference",
+   "prompt": "Which idea best fits the rainbow colors?",
+   "choices": [
+    "Growing through learning",
+    "A weather report",
+    "A race prize"
+   ],
+   "answer": 0,
+   "page": 39,
+   "hint": "What made the sparks appear and grow brighter?",
+   "explanation": "The colors can represent learning and growth. Tell your grown-up another idea the story supports."
+  },
+  {
+   "id": "r19",
+   "type": "choice",
+   "skill": "Feelings & learning strategies",
+   "prompt": "What helped her keep going?",
+   "choices": [
+    "Doing every problem at once",
+    "Encouragement and one small step",
+    "Ignoring all her work"
+   ],
+   "answer": 1,
+   "page": 39,
+   "hint": "Think about the yellow spark’s advice.",
+   "explanation": "Encouragement, a breath, and choosing one problem helped her continue."
+  },
+  {
+   "id": "r20",
+   "type": "choice",
+   "skill": "Feelings & learning strategies",
+   "prompt": "What could she try when homework feels too big?",
+   "choices": [
+    "Take a breath and choose one task",
+    "Quit forever",
+    "Hide every pencil"
+   ],
+   "answer": 0,
+   "page": 39,
+   "hint": "Use the strategy that helped her in the story.",
+   "explanation": "She could breathe, choose one small task, and ask for help when needed."
+  },
+  {
+   "id": "r21",
+   "type": "choice",
+   "skill": "Story details & events",
+   "prompt": "What funny thing happened again at the end?",
+   "choices": [
+    "She lost her tree",
+    "Her pencil was behind her ear again",
+    "The zebras danced"
+   ],
+   "answer": 1,
+   "page": 39,
+   "hint": "The ending repeats a little mystery from earlier.",
+   "explanation": "She thought her pencil was lost, but it was behind her ear again!"
+  },
+  {
+   "id": "r22",
+   "type": "choice",
+   "skill": "Meaning, clues & inference",
+   "prompt": "Why did she think there was a Rainbow Thief?",
+   "choices": [
+    "Her spots disappeared while she studied",
+    "She saw someone steal them",
+    "Her mom told her so"
+   ],
+   "answer": 0,
+   "page": 16,
+   "hint": "What did she notice about her spots?",
+   "explanation": "She saw her colors disappear and guessed someone was stealing them."
+  },
+  {
+   "id": "r23",
+   "type": "choice",
+   "skill": "Meaning, clues & inference",
+   "prompt": "Which clue connected the sparks to learning?",
+   "choices": [
+    "They appeared only at night",
+    "They appeared during hard learning tasks",
+    "They came from mangoes"
+   ],
+   "answer": 1,
+   "page": 33,
+   "hint": "Recall the reading, memory game, and math problems.",
+   "explanation": "Sparks appeared when she learned, tried again, focused, and fixed mistakes."
+  },
+  {
+   "id": "r24",
+   "type": "choice",
+   "skill": "Meaning, clues & inference",
+   "prompt": "Why was fixing just one thing helpful?",
+   "choices": [
+    "It made all homework disappear",
+    "It helped her take a manageable next step",
+    "It made her stop trying"
+   ],
+   "answer": 1,
+   "page": 20,
+   "hint": "Think about how a small step feels compared with a huge task.",
+   "explanation": "One change made the task feel manageable and helped her move forward."
+  },
+  {
+   "id": "m1",
+   "type": "number",
+   "skill": "Addition within 10",
+   "group": "Mango Math",
+   "prompt": "Ensley saw 4 mango slices. 2 more joined them. How many mango slices were there altogether?",
+   "answer": 6,
+   "max": 10,
+   "helper": {
+    "a": 4,
+    "b": 2,
+    "op": "add",
+    "emoji": "🥭",
+    "noun": "mango slices"
+   },
+   "hint": "Start with 4. Count 2 more.",
+   "explanation": "4 plus 2 equals 6. Count both groups together."
+  },
+  {
+   "id": "m2",
+   "type": "number",
+   "skill": "Subtraction within 10",
+   "group": "Mango Math",
+   "prompt": "Ensley had 6 mango slices. 2 went away. How many mango slices were left?",
+   "answer": 4,
+   "max": 10,
+   "helper": {
+    "a": 6,
+    "b": 2,
+    "op": "sub",
+    "emoji": "🥭",
+    "noun": "mango slices"
+   },
+   "hint": "Start with 6. Cross out 2, then count what stays.",
+   "explanation": "6 minus 2 equals 4. Count the objects that are left."
+  },
+  {
+   "id": "m3",
+   "type": "number",
+   "skill": "Addition within 10",
+   "group": "Mango Math",
+   "prompt": "Ensley saw 3 mango slices. 4 more joined them. How many mango slices were there altogether?",
+   "answer": 7,
+   "max": 10,
+   "helper": {
+    "a": 3,
+    "b": 4,
+    "op": "add",
+    "emoji": "🥭",
+    "noun": "mango slices"
+   },
+   "hint": "Start with 3. Count 4 more.",
+   "explanation": "3 plus 4 equals 7. Count both groups together."
+  },
+  {
+   "id": "m4",
+   "type": "number",
+   "skill": "Subtraction within 10",
+   "group": "Mango Math",
+   "prompt": "Ensley had 7 mango slices. 3 went away. How many mango slices were left?",
+   "answer": 4,
+   "max": 10,
+   "helper": {
+    "a": 7,
+    "b": 3,
+    "op": "sub",
+    "emoji": "🥭",
+    "noun": "mango slices"
+   },
+   "hint": "Start with 7. Cross out 3, then count what stays.",
+   "explanation": "7 minus 3 equals 4. Count the objects that are left."
+  },
+  {
+   "id": "m5",
+   "type": "number",
+   "skill": "Subtraction within 10",
+   "group": "Bird Math",
+   "prompt": "Ensley had 7 birds. 3 went away. How many birds were left?",
+   "answer": 4,
+   "max": 10,
+   "helper": {
+    "a": 7,
+    "b": 3,
+    "op": "sub",
+    "emoji": "🐦",
+    "noun": "birds"
+   },
+   "hint": "Start with 7. Cross out 3, then count what stays.",
+   "explanation": "7 minus 3 equals 4. Count the objects that are left."
+  },
+  {
+   "id": "m6",
+   "type": "number",
+   "skill": "Addition within 10",
+   "group": "Bird Math",
+   "prompt": "Ensley saw 5 birds. 2 more joined them. How many birds were there altogether?",
+   "answer": 7,
+   "max": 10,
+   "helper": {
+    "a": 5,
+    "b": 2,
+    "op": "add",
+    "emoji": "🐦",
+    "noun": "birds"
+   },
+   "hint": "Start with 5. Count 2 more.",
+   "explanation": "5 plus 2 equals 7. Count both groups together."
+  },
+  {
+   "id": "m7",
+   "type": "number",
+   "skill": "Subtraction within 10",
+   "group": "Bird Math",
+   "prompt": "Ensley had 8 birds. 4 went away. How many birds were left?",
+   "answer": 4,
+   "max": 10,
+   "helper": {
+    "a": 8,
+    "b": 4,
+    "op": "sub",
+    "emoji": "🐦",
+    "noun": "birds"
+   },
+   "hint": "Start with 8. Cross out 4, then count what stays.",
+   "explanation": "8 minus 4 equals 4. Count the objects that are left."
+  },
+  {
+   "id": "m8",
+   "type": "number",
+   "skill": "Addition within 10",
+   "group": "Bird Math",
+   "prompt": "Ensley saw 3 birds. 5 more joined them. How many birds were there altogether?",
+   "answer": 8,
+   "max": 10,
+   "helper": {
+    "a": 3,
+    "b": 5,
+    "op": "add",
+    "emoji": "🐦",
+    "noun": "birds"
+   },
+   "hint": "Start with 3. Count 5 more.",
+   "explanation": "3 plus 5 equals 8. Count both groups together."
+  },
+  {
+   "id": "m9",
+   "type": "number",
+   "skill": "Addition within 10",
+   "group": "Zebra Math",
+   "prompt": "Ensley saw 2 zebras. 3 more joined them. How many zebras were there altogether?",
+   "answer": 5,
+   "max": 10,
+   "helper": {
+    "a": 2,
+    "b": 3,
+    "op": "add",
+    "emoji": "🦓",
+    "noun": "zebras"
+   },
+   "hint": "Start with 2. Count 3 more.",
+   "explanation": "2 plus 3 equals 5. Count both groups together."
+  },
+  {
+   "id": "m10",
+   "type": "number",
+   "skill": "Subtraction within 10",
+   "group": "Zebra Math",
+   "prompt": "Ensley had 6 zebras. 2 went away. How many zebras were left?",
+   "answer": 4,
+   "max": 10,
+   "helper": {
+    "a": 6,
+    "b": 2,
+    "op": "sub",
+    "emoji": "🦓",
+    "noun": "zebras"
+   },
+   "hint": "Start with 6. Cross out 2, then count what stays.",
+   "explanation": "6 minus 2 equals 4. Count the objects that are left."
+  },
+  {
+   "id": "m11",
+   "type": "number",
+   "skill": "Addition within 10",
+   "group": "Zebra Math",
+   "prompt": "Ensley saw 4 zebras. 3 more joined them. How many zebras were there altogether?",
+   "answer": 7,
+   "max": 10,
+   "helper": {
+    "a": 4,
+    "b": 3,
+    "op": "add",
+    "emoji": "🦓",
+    "noun": "zebras"
+   },
+   "hint": "Start with 4. Count 3 more.",
+   "explanation": "4 plus 3 equals 7. Count both groups together."
+  },
+  {
+   "id": "m12",
+   "type": "number",
+   "skill": "Subtraction within 10",
+   "group": "Zebra Math",
+   "prompt": "Ensley had 7 zebras. 3 went away. How many zebras were left?",
+   "answer": 4,
+   "max": 10,
+   "helper": {
+    "a": 7,
+    "b": 3,
+    "op": "sub",
+    "emoji": "🦓",
+    "noun": "zebras"
+   },
+   "hint": "Start with 7. Cross out 3, then count what stays.",
+   "explanation": "7 minus 3 equals 4. Count the objects that are left."
+  },
+  {
+   "id": "m13",
+   "type": "number",
+   "skill": "Addition within 10",
+   "group": "Grassland Math",
+   "prompt": "Ensley saw 3 butterflies. 4 more joined them. How many butterflies were there altogether?",
+   "answer": 7,
+   "max": 10,
+   "helper": {
+    "a": 3,
+    "b": 4,
+    "op": "add",
+    "emoji": "🦋",
+    "noun": "butterflies"
+   },
+   "hint": "Start with 3. Count 4 more.",
+   "explanation": "3 plus 4 equals 7. Count both groups together."
+  },
+  {
+   "id": "m14",
+   "type": "number",
+   "skill": "Subtraction within 10",
+   "group": "Grassland Math",
+   "prompt": "Ensley had 8 pencils. 3 went away. How many pencils were left?",
+   "answer": 5,
+   "max": 10,
+   "helper": {
+    "a": 8,
+    "b": 3,
+    "op": "sub",
+    "emoji": "✏️",
+    "noun": "pencils"
+   },
+   "hint": "Start with 8. Cross out 3, then count what stays.",
+   "explanation": "8 minus 3 equals 5. Count the objects that are left."
+  },
+  {
+   "id": "m15",
+   "type": "number",
+   "skill": "Addition within 10",
+   "group": "Grassland Math",
+   "prompt": "Ensley saw 5 books. 2 more joined them. How many books were there altogether?",
+   "answer": 7,
+   "max": 10,
+   "helper": {
+    "a": 5,
+    "b": 2,
+    "op": "add",
+    "emoji": "📚",
+    "noun": "books"
+   },
+   "hint": "Start with 5. Count 2 more.",
+   "explanation": "5 plus 2 equals 7. Count both groups together."
+  },
+  {
+   "id": "m16",
+   "type": "number",
+   "skill": "Subtraction within 10",
+   "group": "Grassland Math",
+   "prompt": "Ensley had 9 rainbow sparks. 4 went away. How many rainbow sparks were left?",
+   "answer": 5,
+   "max": 10,
+   "helper": {
+    "a": 9,
+    "b": 4,
+    "op": "sub",
+    "emoji": "✨",
+    "noun": "rainbow sparks"
+   },
+   "hint": "Start with 9. Cross out 4, then count what stays.",
+   "explanation": "9 minus 4 equals 5. Count the objects that are left."
+  },
+  {
+   "id": "m17",
+   "type": "number",
+   "skill": "Addition within 10",
+   "group": "Mixed Challenge",
+   "prompt": "Ensley saw 5 mango slices. 3 more joined them. How many mango slices were there altogether?",
+   "answer": 8,
+   "max": 10,
+   "helper": {
+    "a": 5,
+    "b": 3,
+    "op": "add",
+    "emoji": "🥭",
+    "noun": "mango slices"
+   },
+   "hint": "Start with 5. Count 3 more.",
+   "explanation": "5 plus 3 equals 8. Count both groups together."
+  },
+  {
+   "id": "m18",
+   "type": "number",
+   "skill": "Subtraction within 10",
+   "group": "Mixed Challenge",
+   "prompt": "Ensley had 8 birds. 2 went away. How many birds were left?",
+   "answer": 6,
+   "max": 10,
+   "helper": {
+    "a": 8,
+    "b": 2,
+    "op": "sub",
+    "emoji": "🐦",
+    "noun": "birds"
+   },
+   "hint": "Start with 8. Cross out 2, then count what stays.",
+   "explanation": "8 minus 2 equals 6. Count the objects that are left."
+  },
+  {
+   "id": "m19",
+   "type": "number",
+   "skill": "Addition within 10",
+   "group": "Mixed Challenge",
+   "prompt": "Ensley saw 4 zebras. 2 more joined them. How many zebras were there altogether?",
+   "answer": 6,
+   "max": 10,
+   "helper": {
+    "a": 4,
+    "b": 2,
+    "op": "add",
+    "emoji": "🦓",
+    "noun": "zebras"
+   },
+   "hint": "Start with 4. Count 2 more.",
+   "explanation": "4 plus 2 equals 6. Count both groups together."
+  },
+  {
+   "id": "m20",
+   "type": "number",
+   "skill": "Subtraction within 10",
+   "group": "Mixed Challenge",
+   "prompt": "Ensley had 7 pencils. 3 went away. How many pencils were left?",
+   "answer": 4,
+   "max": 10,
+   "helper": {
+    "a": 7,
+    "b": 3,
+    "op": "sub",
+    "emoji": "✏️",
+    "noun": "pencils"
+   },
+   "hint": "Start with 7. Cross out 3, then count what stays.",
+   "explanation": "7 minus 3 equals 4. Count the objects that are left."
+  }
+ ]
+}
